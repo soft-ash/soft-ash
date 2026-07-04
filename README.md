@@ -228,10 +228,10 @@ Data Science Fundamentals       ████████████░░░░
 
 ### 📊 GitHub Analytics
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=soft-ash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=soft-ash&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soft-ash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -239,7 +239,7 @@ Data Science Fundamentals       ████████████░░░░
 
 ### 📅 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soft-ash&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
@@ -247,7 +247,7 @@ Data Science Fundamentals       ████████████░░░░
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/soft-ash/soft-ash/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
